@@ -2088,9 +2088,9 @@ ember-load-initializers@^0.6.3:
   dependencies:
     ember-cli-babel "^5.1.6"
 
-ember-one-way-controls@^2.0.0:
+ember-one-way-controls@ivanvanderbyl/ember-one-way-controls:
   version "2.0.0"
-  resolved "https://registry.yarnpkg.com/ember-one-way-controls/-/ember-one-way-controls-2.0.0.tgz#7a79f1a56094c44fe1012fd0f9b75bd92d136fe9"
+  resolved "https://codeload.github.com/ivanvanderbyl/ember-one-way-controls/tar.gz/46399fcf9c2391c2cbcff80f2b00e32a3e412877"
   dependencies:
     ember-cli-babel "^5.1.7"
     ember-cli-htmlbars "^1.0.10"
